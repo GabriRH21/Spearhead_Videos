@@ -20,3 +20,5 @@ config.mk
 
 # debug symbols
 *.pdb
+
+.idea
